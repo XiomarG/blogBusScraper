@@ -8,7 +8,7 @@ import csv
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-BASE_URL = 'http://urmyeyes.blogbus.com'
+BASE_URL = 'http://XXXX.blogbus.com'
 
 
 def get_page_count():
